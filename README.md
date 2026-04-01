@@ -1,7 +1,7 @@
 # Hi, I'm Hammad 👋
 AI Engineer | Python & Machine Learning Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hammad-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hammad-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/hammad-a-a100843a2/)
 [![GitHub followers](https://img.shields.io/github/followers/iamHammadA?label=Followers&style=social)](https://github.com/iamHammadA)
 
 ---
