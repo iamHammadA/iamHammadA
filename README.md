@@ -33,7 +33,7 @@ AI Engineer | Python & Machine Learning Enthusiast
 ---
 
 ## 📫 How to reach me
-- Email: [hammads.busines]
+- Email: hammads.business6@gmail.com
 - Linkedin: [Hammad A.](https://linkedin.com/in/hammad-a-a100843a2/)  
 
 ---
