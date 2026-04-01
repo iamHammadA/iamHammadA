@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hammad 👋
+AI Engineer | Python & Machine Learning Enthusiast
 
-<!--
-**iamHammadA/iamHammadA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Projects
+- AI-Dataset-Explainer
+- Machine Learning mini-projects
 
-Here are some ideas to get you started:
+## 🌱 Learning
+- Advanced Machine Learning
+- Deep Learning & NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+Python, AI, Git, Data Analysis, ML
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/hammad-a-a100843a2/
+- Email: hammads.business6@gmail.com
+
+## ⚡ Fun Fact
+I love exploring new tech, building AI projects, and sharing knowledge with the community!
